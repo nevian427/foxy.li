@@ -1,3 +1,52 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://foxy.li"
+languageCode = "ru-ru"
+title = "Юрьева Елизавета Адольфовна"
+theme = "papaya"
+publishdir = "./public/"
+paginate = 6
+copyright = "Elizabeth Yurieva - All rights reserved"
+ignoreErrors = ["error-remote-getjson"]
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  description = "Клиническая психология. Консультации. Детское развитие. Мастер-классы для родителей."
+  dateFormat = "2 Jan 2006"
+  authorName = "Елизавета Юрьева"
+
+[params.author]
+  name = "Елизавета Юрьева"
+  description = "Клинический психолог"
+
+[params.index]
+  title = "Елизавета Адольфовна Юрьева"
+  subtitle = "Клинический психолог"
+  mdtext = ""
+
+[menu]
+  [[menu.main]]
+    name = "/"
+    url = "/"
+    pre = "home"
+    weight = 100
+  [[menu.main]]
+    name = "Биография"
+    url = "/about"
+    pre = "activity"
+    weight = 200
+  [[menu.main]]
+    name = "Статьи"
+    url = "/articles"
+    pre = "book-open"
+    weight = 300
+  [[menu.main]]
+    name = "Родителям"
+    url = "/services"
+    pre = "target"
+    weight = 400
+  [[menu.main]]
+    name = "Контакты"
+    url = "/contacts"
+    pre = "inbox"
+    weight = 500
