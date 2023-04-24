@@ -1,67 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ExampleSite</title>
+    <title>Первональный сайт Юрьевой Е.А.</title>
     <link>http://foxy.li/</link>
-    <description>Recent content on ExampleSite</description>
+    <description>Recent content on Первональный сайт Юрьевой Е.А.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <copyright>Elizabeth Yurieva - All rights reserved</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://foxy.li/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://foxy.li/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Юрьева Е.А. Краткая биография.</title>
+      <link>http://foxy.li/about/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://foxy.li/about/</guid>
+      <description>Педагог-психолог, нейропсихолог, психолог-консультант Образование: 2009–2013 – Факультет психологии МГУ, кафедра нейро- и патопсихологии.
+Специальность: Клиническая психология.
+Квалификация: Психолог. Клинический психолог. Преподаватель психологии.
+Повышение квалификации: Ноябрь 2013 – июнь 2014 – практика на базе НИИ Нейрохирургии имени Н.Н.Бурденко под руководством О.А.Кротковой (нейрореабилитология)
+Май – июнь 2014 – МГППУ, Повышение квалификации по дополнительной профессиональной программе «Психологическая профилактика социальных рисков»
+Март – апрель 2015 – НОУ ВПО Институт психологии и педагогики, Повышение квалификации по дополнительной профессиональной программе «Психолого-педагогические аспекты оказания помощи детям с ограниченными возможностями здоровья в условиях ППМСЦ»</description>
+    </item>
+    
     <item>
       <title>Contacts</title>
       <link>http://foxy.li/contacts/</link>
-      <pubDate>Sat, 20 Mar 2021 02:55:24 +0300</pubDate>
+      <pubDate>Sun, 24 Apr 2022 02:55:24 +0300</pubDate>
       
       <guid>http://foxy.li/contacts/</guid>
-      <description> Позвонить: +7 926 378-xxxx Написать: neuro () foxy.li Адрес: Московская область, г.Красногорск, Красногорский бульвар  </description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://foxy.li/articles/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/articles/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://foxy.li/articles/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/articles/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://foxy.li/articles/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/articles/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://foxy.li/services/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/services/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>http://foxy.li/articles/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/articles/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description> Позвонить: +7-995-888-9350 Написать: neuro () foxy.li Адрес: Московская область, г.Красногорск, Красногорский бульвар, 50 </description>
     </item>
     
     <item>
@@ -71,18 +38,7 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>http://foxy.li/articles/tvizel_autobiography/</guid>
       <description>«Если бы меня спросили, какая самая сильная черта моего характера я бы ответила - доверчивость, а если бы меня спросили, какая самая слабая черта моего характера, я бы ответила - доверчивость»
- Родилась в 1938 году в Таганроге (по случайному стечению обстоятельств), поскольку в этом городе мои родители не проживали, а были там проездом. Остается утешаться тем, что там же появились на свет Антон Павлович Чехов и Фаина Раневская. В недельном возрасте вернулась в Москву.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://foxy.li/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+Родилась в 1938 году в Таганроге (по случайному стечению обстоятельств), поскольку в этом городе мои родители не проживали, а были там проездом. Остается утешаться тем, что там же появились на свет Антон Павлович Чехов и Фаина Раневская. В недельном возрасте вернулась в Москву.</description>
     </item>
     
     <item>
@@ -101,6 +57,16 @@ Hugo makes use of a variety of open source projects including:
       
       <guid>http://foxy.li/search/</guid>
       <description>search</description>
+    </item>
+    
+    <item>
+      <title>Развитие функций регуляции и контроля у детей с ОВЗ</title>
+      <link>http://foxy.li/articles/development_of_regulatory_functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://foxy.li/articles/development_of_regulatory_functions/</guid>
+      <description>На протяжении текущего учебного года многие родители, обращаясь к психологу за консультацией, в качестве основной жалобы приводят нарушения поведения своего ребёнка. Под нарушениями поведения они подразумевают:
+неусидчивость, которая в рамках группы детского сада или школьного класса негативно сказывается на проведении занятий; невнимательность, отвлекаемость, итогом которых часто становится неуспеваемость в школе; агрессивное поведение, возникающее при незначительном сопротивлении другими детьми или взрослыми желаниям ребёнка; плаксивость и раздражительность (капризный ребёнок); отказ от сотрудничества (непослушный ребёнок); нежелание признавать авторитеты (своеволие, нарушенные границы); лень (отсутствие желания заниматься чем-либо, кроме пассивных занятий, как то компьютер или планшет, телевизор).</description>
     </item>
     
   </channel>

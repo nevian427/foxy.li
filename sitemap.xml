@@ -2,55 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://foxy.li/about/</loc>
+    <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://foxy.li/contacts/</loc>
-    <lastmod>2021-03-20T02:55:24+03:00</lastmod>
+    <lastmod>2022-04-24T02:55:24+03:00</lastmod>
   </url><url>
     <loc>http://foxy.li/articles/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/articles/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/articles/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/articles/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/services/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://foxy.li/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://foxy.li/articles/emoji-support/</loc>
+    <loc>http://foxy.li/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://foxy.li/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</loc>
@@ -62,11 +23,23 @@
     <loc>http://foxy.li/tags/%D0%B2%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://foxy.li/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>http://foxy.li/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://foxy.li/search/</loc>
   </url><url>
+    <loc>http://foxy.li/tags/%D0%B4%D0%B5%D1%82%D0%B8/</loc>
+  </url><url>
+    <loc>http://foxy.li/tags/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C/</loc>
+  </url><url>
     <loc>http://foxy.li/search/</loc>
+  </url><url>
+    <loc>http://foxy.li/articles/development_of_regulatory_functions/</loc>
+  </url><url>
+    <loc>http://foxy.li/tags/%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F/</loc>
+  </url><url>
+    <loc>http://foxy.li/tags/%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA/</loc>
+  </url><url>
+    <loc>http://foxy.li/tags/%D1%8E%D1%80%D1%8C%D0%B5%D0%B2%D0%B0/</loc>
   </url>
 </urlset>

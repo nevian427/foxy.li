@@ -1,85 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ExampleSite</title>
+    <title>Tags on Первональный сайт Юрьевой Е.А.</title>
     <link>http://foxy.li/tags/</link>
-    <description>Recent content in Tags on ExampleSite</description>
+    <description>Recent content in Tags on Первональный сайт Юрьевой Е.А.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <copyright>Elizabeth Yurieva - All rights reserved</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://foxy.li/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>css</title>
-      <link>http://foxy.li/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>http://foxy.li/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>http://foxy.li/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>http://foxy.li/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>http://foxy.li/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>http://foxy.li/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>http://foxy.li/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>http://foxy.li/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://foxy.li/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://foxy.li/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>автобиография</title>
       <link>http://foxy.li/tags/%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</link>
@@ -95,6 +23,51 @@
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://foxy.li/tags/%D0%B2%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>дети</title>
+      <link>http://foxy.li/tags/%D0%B4%D0%B5%D1%82%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://foxy.li/tags/%D0%B4%D0%B5%D1%82%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>контроль</title>
+      <link>http://foxy.li/tags/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://foxy.li/tags/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>регуляция</title>
+      <link>http://foxy.li/tags/%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://foxy.li/tags/%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>сборник</title>
+      <link>http://foxy.li/tags/%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://foxy.li/tags/%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Юрьева</title>
+      <link>http://foxy.li/tags/%D1%8E%D1%80%D1%8C%D0%B5%D0%B2%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://foxy.li/tags/%D1%8E%D1%80%D1%8C%D0%B5%D0%B2%D0%B0/</guid>
       <description></description>
     </item>
     
